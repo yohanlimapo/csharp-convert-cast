@@ -1,0 +1,15 @@
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.AssemblyInfoInputs.cache
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.AssemblyInfo.cs
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.csproj.CoreCompileInputs.cache
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.sourcelink.json
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.exe
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.deps.json
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.runtimeconfig.json
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.dll
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.pdb
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.dll
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\refint\csharp-convert-cast.dll
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.pdb
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.genruntimeconfig.cache
+C:\Be-a-QA\Treinamento_Microsoft\csharp-convert-cast\obj\Debug\net8.0\ref\csharp-convert-cast.dll
